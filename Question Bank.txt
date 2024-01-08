@@ -1,0 +1,120 @@
+1 Mark
+
+1.What is a postback in ASP.NET?
+A) A method for sending data to the server
+B) A method for receiving data from the server
+C) A method for refreshing a page
+D) A method for submitting a form
+2.What does ASP.NET stand for?
+a. Active Server Pages Network
+b. Advanced System Programming .NET
+c. Application Service Provider .NET
+d. Active Server Pages .NET
+
+3. Which of the following is the correct syntax for defining a server control in ASP.NET?
+a. <control:Type runat="server" />
+b. <asp:Type runat="server" />
+c. <server:Type runat="control" />
+d. <Type:server runat="control" />
+
+4.		What is the purpose of the "CodeBehind" attribute in an ASP.NET page?
+
+a. To link the page with its code-behind file
+b. To specify the programming language used in the code-behind file
+c. To define the target framework for the page
+d. To set the page title
+
+5.	Which of the following events is triggered when a button is clicked in an ASP.NET Web Form?
+a. Page_Load
+b. Button_Click
+c. Page_Init
+d. Button_OnClick
+
+6. What is the purpose of the ViewState in ASP.NET?
+a. To store session-specific information
+b. To maintain the state of controls between postbacks
+c. To store user authentication data
+d. To cache frequently used data
+
+7.	What is the role of the Global.asax file in an ASP.NET application?
+a. It contains configuration settings for the application.
+b. It handles application-level events and customizes application behavior.
+c. It defines the layout and structure of the application.
+d. It manages user authentication and authorization.
+
+8.	Which control is used to display a pop-up calendar for selecting a date in ASP.NET?
+a. DateControl
+b. CalendarControl
+c. DatePicker
+d. Calendar
+9.	What is the purpose of the SqlConnection object in ADO.NET?
+a. To represent a connection to a database
+b. To execute SQL commands against a database
+c. To store the results of a database query
+d. To define the structure of a database table
+19.	What is the difference between a DataReader and a DataSet in ADO.NET?
+a. A DataReader is read-only, forward-only, and faster, while a DataSet is a cache of data.
+b. A DataSet is read-only, forward-only, and faster, while a DataReader is a cache of data.
+c. Both DataReader and DataSet are the same and can be used interchangeably.
+d. A DataSet is used for reading data, and a DataReader is used for updating data.
+
+
+2marks
+What’s the difference between .NET and .NET Framework?
+Explain the concept of dependency injection in ASP.NET Core. Provide an example of how you would register and resolve a scoped service in the application.
+How does ASP.NET Core handle static file serving?
+What are the various approaches in Code First for model designing?
+Describe Model Binding in ASP.NET Core.
+Write difference between LINQ to SQL and Entity Framework 
+How would you implement a secure file upload feature in an ASP.NET MVC application, ensuring that uploaded files are scanned for malware and stored in a secure manner?
+Describe common performance optimization techniques for Entity Framework in an ASP.NET application. Provide an example of how you would optimize a database query to minimize the number of database round-trips.
+
+4 Marks
+
+
+What are the different validators in ASP.NET?
+Describe the best practices for handling exceptions in an ASP.NET application. How would you log and handle exceptions to ensure a smooth user experience and aid in debugging?
+
+
+How would you prevent Cross-Site Scripting (XSS) attacks in an ASP.NET web application? Provide examples of measures you would take to ensure the security of user input and output.
+
+
+Explain the benefits of asynchronous programming in ASP.NET. Provide examples of situations where asynchronous programming can significantly improve performance.
+
+
+Discuss the importance of dependency injection in ASP.NET and how you would implement it. Provide an example of a scenario where dependency injection is beneficial.
+
+
+You are tasked with building a RESTful Web API using ASP.NET Web API. Explain the key components and steps involved in creating a secure and scalable Web API.
+
+You need to implement real-time communication in an ASP.NET application. Explain the options available for achieving real-time updates, and provide an example of when SignalR might be the preferred solution.
+
+
+Your ASP.NET application is experiencing performance issues. Describe the steps you would take to identify and resolve bottlenecks, optimizing the application for better performance.
+
+
+Your ASP.NET application is expected to experience a significant increase in traffic. Explain how you would ensure the scalability of the application, both in terms of vertical and horizontal scaling.
+
+
+Discuss the use of WebSockets in ASP.NET. Provide an example of a scenario where WebSockets are preferable over traditional HTTP communication.
+
+
+Explain the importance of unit testing in ASP.NET development. Describe how you would approach writing unit tests for a controller in an ASP.NET MVC application.
+
+
+
+
+
+1Build a website like Domino’s, Pizza Hut or McDonald's that enables customers to have a simple, seamless, and effective online food ordering and delivery experience!
+
+Project Scope
+Public Section
+Home Page
+About Us Page
+Contact Us Page
+
+2. Handle Errors in ASP.NET Core
+3.Create REST Service using Web API
+4.Implement MVC, Repository and Dependency Injection patterns
+
+
